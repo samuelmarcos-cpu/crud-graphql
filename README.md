@@ -1,31 +1,3 @@
-# CRUD GraphQL
+# Screenshots
 
-[](screenshots/home.jpg)
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![home](https://user-images.githubusercontent.com/43184140/76169034-61d8cf00-6153-11ea-863f-5047c755c53f.jpg)
