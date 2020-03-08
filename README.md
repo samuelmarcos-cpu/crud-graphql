@@ -1,4 +1,6 @@
-# frontend
+# CRUD GraphQL
+
+[](screenshots/home.jpg)
 
 ## Project setup
 ```
